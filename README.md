@@ -1,4 +1,4 @@
-<img width="1000" height="250" alt="black_hole_banner" src="https://github.com/user-attachments/assets/aafed3b1-7d7e-41ca-a2e1-ef428073efb1" />
+<img width="1000" height="300" alt="black_hole_banner" src="https://github.com/user-attachments/assets/aafed3b1-7d7e-41ca-a2e1-ef428073efb1" />
 
 ### Tech
 <div align="left">
